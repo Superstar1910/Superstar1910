@@ -1,0 +1,11 @@
+.avatar {
+    border-radius: 100%;
+}
+
+.purple-text {
+    color: rgb(135, 60, 159);
+}
+
+.padded-logo{
+    padding: 5px;
+}
