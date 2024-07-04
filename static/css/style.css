@@ -4,8 +4,117 @@
 
 .purple-text {
     color: rgb(135, 60, 159);
+    font-weight: bolder;
+    font-size: large;
 }
 
-.padded-logo{
+.padded-logo {
     padding: 5px;
+}
+
+/* build */
+
+.digest-africa {
+    color: rgb(92, 175, 255);
+}
+
+.xente {
+    color: rgb(235, 155, 74);
+}
+
+.innovation-village {
+    color: rgb(236, 109, 45);
+}
+
+.kain {
+    color: rgb(80, 163, 163);
+}
+
+.the-97-fund {
+    color: rgb(242, 201, 125);
+}
+
+.ortus-africa-capital {
+    color: rgb(135, 60, 159);
+}
+
+.obsidian-achernar {
+    color: rgb(240, 248, 255);
+}
+
+.sunbird-ai {
+    color: rgb(225, 175, 75);
+}
+
+.amari-hitch {
+    color: rgb(65, 145, 205);
+}
+
+/* invest */
+
+.nyondo-general-trading {
+    color: rgb(red, green, blue);
+}
+
+.cyanase {
+    color: rgb(230, 175, 80);
+}
+
+
+.yunga {
+    color: rgb(215, 60, 75);
+}
+
+
+.campaignity {
+    color: rgb(117, 245, 190);
+}
+
+
+.ridelink {
+    color: rgb(50, 100, 100);
+}
+
+.dhero-group {
+    color: rgb(35, 75, 40);
+}
+
+.kamro-capital {
+    color: rgb(80, 170, 225);
+}
+
+.muddo-landscapers {
+    color: rgb(160, 200, 90);
+}
+
+.technology-dynasty {
+    color: rgb(225, 140, 60);
+}
+
+.bantu-energy {
+    color: rgb(90, 60, 20);
+}
+
+.intellibonds {
+    color: rgb(115, 185, 225);
+}
+
+.breeze-move {
+    color: rgb(70, 155, 210);
+}
+
+.oceain-personality {
+    color: rgb(45, 105, 180);
+}
+
+.rnwl {
+    color: rgb(150, 200, 190);
+}
+
+/* .plum-lg {
+
+} */
+
+.ipg-energy {
+    color: rgb(red, green, blue);
 }
