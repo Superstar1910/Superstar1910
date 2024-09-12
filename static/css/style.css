@@ -2,6 +2,20 @@
     border-radius: 100%;
 }
 
+.center {
+    margin: auto;
+    width: 88%;
+    border: 3px solid #202632;
+    border-radius: 15px;
+    padding: 16px;
+}
+
+.center-container {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+}
+
 .purple-text {
     color: rgb(135, 60, 159);
     font-weight: bolder;
@@ -117,4 +131,8 @@
 
 .ipg-energy {
     color: rgb(red, green, blue);
+}
+
+.paytota{
+    color: rgb(213, 84, 58);
 }
